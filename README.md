@@ -1,2 +1,2 @@
 # 3D-Design-Shading
-shaded stein
+shaded stein in Maya
